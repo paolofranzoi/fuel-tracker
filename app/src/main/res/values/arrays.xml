@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fuel_types_array">
+        <item>Benzina</item>
+        <item>Diesel</item>
+        <item>GPL</item>
+        <item>Metano</item>
+        <item>Ibrido</item>
+        <item>Elettrico</item>
+        <item>Altro</item>
+    </string-array>
+    <string-array name="period_array">
+        <item>1 mese</item>
+        <item>3 mesi</item>
+        <item>6 mesi</item>
+        <item>12 mesi</item>
+        <item>24 mesi</item>
+        <item>36 mesi</item>
+        <item>MAX</item>
+    </string-array>
+</resources>
